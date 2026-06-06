@@ -1357,7 +1357,7 @@ export const createTestNotifications = async (userId: string) => {
   const testNotifications: Omit<Notification, 'id' | 'createdAt'>[] = [
     {
       userId,
-      title: 'Welcome to AdiVote!',
+      title: 'Welcome to Adamas CR Voting System!',
       message: 'Thank you for joining. Start by browsing available classes.',
       type: 'info' as const,
       read: false,

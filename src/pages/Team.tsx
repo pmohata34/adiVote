@@ -37,7 +37,7 @@ const Team = () => {
       role: "UI/UX Designer",
       imageUrl: "/pranjal.jpg",
       icon: <Palette className="h-5 w-5 text-white" />,
-      bio: "Creative designer focused on crafting beautiful and intuitive user experiences. Skilled in UI/UX design principles and contributed to making AdiVote visually appealing and user-friendly.",
+      bio: "Creative designer focused on crafting beautiful and intuitive user experiences. Skilled in UI/UX design principles and contributed to making Adamas CR Voting System visually appealing and user-friendly.",
       links: {
         github: "https://github.com/pmohata34",
         linkedin: "https://www.linkedin.com/in/pranjal-mohata-926617289?",
@@ -49,7 +49,7 @@ const Team = () => {
       role: "Full Stack Developer",
       imageUrl: "/sankalpa.jpg",
       icon: <Code2 className="h-5 w-5 text-white" />,
-      bio: "Full-stack developer with expertise in both frontend and backend technologies. Contributed to the development of secure voting infrastructure and real-time features of the AdiVote platform.",
+      bio: "Full-stack developer with expertise in both frontend and backend technologies. Contributed to the development of secure voting infrastructure and real-time features of the Adamas CR Voting System platform.",
       links: {
         github: "https://github.com/sanks011",
         linkedin: "https://www.linkedin.com/in/sankalpacodes",
@@ -110,7 +110,7 @@ const Team = () => {
             transition={{ delay: 0.3, duration: 0.5 }}
             className="text-xl text-gray-600 max-w-2xl mx-auto"
           >
-            Meet the talented individuals behind AdiVote who are dedicated to bringing transparent and secure voting to Adamas University
+            Meet the talented individuals behind Adamas CR Voting System who are dedicated to bringing transparent and secure voting to Adamas University
           </motion.p>
         </div>
 
@@ -205,7 +205,7 @@ const Team = () => {
             <h3 className="text-xl font-semibold text-gray-800 mb-4">Join Our Team</h3>
             <p className="text-gray-600 mb-6">
               Are you passionate about democracy, technology, and creating a better experience for students? 
-              We're always looking for talented individuals to join our team and contribute to the AdiVote platform.
+              We're always looking for talented individuals to join our team and contribute to the Adamas CR Voting System platform.
             </p>
             <Button className="bg-[#33CC33] hover:bg-[#2ecc71] text-white">
               <Mail className="mr-2 h-4 w-4" />
@@ -220,7 +220,7 @@ const Team = () => {
           transition={{ delay: 1, duration: 0.5 }}
           className="mt-12 text-center"
         >
-          <p className="text-sm text-gray-500">© 2025 AdiVote. All rights reserved.</p>
+          <p className="text-sm text-gray-500">© 2025 Adamas CR Voting System. All rights reserved.</p>
         </motion.div>
       </div>
     </div>

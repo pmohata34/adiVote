@@ -194,7 +194,7 @@ const Navbar = () => {
                 transition={{ delay: 0.2 }}
               >
                 <Vote className="h-6 w-6 mr-2 text-[#33CC33]" />
-                AdiVote
+                Adamas CR Vote
               </motion.span>
             </Link>
           </motion.div>
