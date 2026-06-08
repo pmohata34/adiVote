@@ -69,7 +69,7 @@ const TermsOfService = () => {
                 Acceptance of Terms
               </h2>
               <p className="text-lg leading-relaxed">
-                By accessing or using the Adamas CR Voting System platform, you agree to be bound by these Terms of Service and all applicable laws and regulations. If you do not agree with any part of these terms, you may not use our platform.
+                By accessing or using the AdiVote platform, you agree to be bound by these Terms of Service and all applicable laws and regulations. If you do not agree with any part of these terms, you may not use our platform.
               </p>
             </div>
             
@@ -80,7 +80,7 @@ const TermsOfService = () => {
                 <UserCheck className="h-5 w-5 text-[#33CC33]" />
               </h2>
               <p className="text-lg leading-relaxed">
-                You must be a currently enrolled student or authorized faculty/staff member of Adamas University to use the Adamas CR Voting System platform. You must register with your official university email address.
+                You must be a currently enrolled student or authorized faculty/staff member of Adamas University to use the AdiVote platform. You must register with your official university email address.
               </p>
             </div>
 
@@ -99,7 +99,7 @@ const TermsOfService = () => {
                 <span className="text-[#33CC33] bg-[#33CC33]/10 p-2 rounded-lg">4.</span>
                 Voting Rules
               </h2>
-              <p className="text-lg mb-4">The following rules apply to all elections on Adamas CR Voting System:</p>
+              <p className="text-lg mb-4">The following rules apply to all elections on AdiVote:</p>
               <ul className="space-y-3 pl-6">
                 <li className="flex items-start group">
                   <span className="text-[#33CC33] mr-3 group-hover:scale-110 transition-transform duration-200">•</span>
@@ -164,7 +164,7 @@ const TermsOfService = () => {
                 <span className="text-[#33CC33]">6.</span> Intellectual Property
               </h2>
               <p>
-                All content, features, and functionality of the Adamas CR Voting System platform are owned by Adamas CR Voting System and are protected by intellectual property laws. You may not reproduce, distribute, modify, or create derivative works based on our platform without express permission.
+                All content, features, and functionality of the AdiVote platform are owned by AdiVote and are protected by intellectual property laws. You may not reproduce, distribute, modify, or create derivative works based on our platform without express permission.
               </p>
             </div>
             
@@ -174,7 +174,7 @@ const TermsOfService = () => {
                 <AlertCircle className="h-4 w-4 text-[#33CC33] ml-1" />
               </h2>
               <p>
-                The Adamas CR Voting System platform is provided "as is" without warranties of any kind, either express or implied. We do not guarantee that the platform will be error-free or uninterrupted.
+                The AdiVote platform is provided "as is" without warranties of any kind, either express or implied. We do not guarantee that the platform will be error-free or uninterrupted.
               </p>
             </div>
             
@@ -183,7 +183,7 @@ const TermsOfService = () => {
                 <span className="text-[#33CC33]">8.</span> Limitation of Liability
               </h2>
               <p>
-                Adamas CR Voting System and its team will not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of the platform.
+                AdiVote and its team will not be liable for any indirect, incidental, special, consequential, or punitive damages arising from your use of the platform.
               </p>
             </div>
             
@@ -192,7 +192,7 @@ const TermsOfService = () => {
                 <span className="text-[#33CC33]">9.</span> Changes to Terms
               </h2>
               <p>
-                We reserve the right to modify these Terms of Service at any time. Changes will be effective immediately upon posting to the platform. Your continued use of Adamas CR Voting System after changes are posted constitutes your acceptance of the updated terms.
+                We reserve the right to modify these Terms of Service at any time. Changes will be effective immediately upon posting to the platform. Your continued use of AdiVote after changes are posted constitutes your acceptance of the updated terms.
               </p>
             </div>
             
@@ -211,7 +211,7 @@ const TermsOfService = () => {
             className="mt-12 pt-6 border-t border-gray-100 text-center"
           >
             <p className="text-sm text-gray-500 hover:text-gray-700 transition-colors duration-200">
-              © 2025 Adamas CR Voting System. All rights reserved.
+              © 2025 AdiVote. All rights reserved.
             </p>
           </motion.div>
         </motion.div>

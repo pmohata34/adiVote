@@ -68,7 +68,7 @@ const PrivacyPolicy = () => {
                 <span className="text-[#33CC33] bg-[#33CC33]/10 p-2 rounded-lg">1.</span> Introduction
               </h2>
               <p className="mb-4">
-                Welcome to Adamas CR Voting System ("we," "our," or "us"). We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our voting platform.
+                Welcome to AdiVote ("we," "our," or "us"). We are committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our voting platform.
               </p>
             </div>
             
@@ -190,7 +190,7 @@ const PrivacyPolicy = () => {
             className="mt-12 pt-6 border-t border-gray-100 text-center"
           >
             <p className="text-sm text-gray-500 hover:text-gray-700 transition-colors duration-200">
-              © 2025 Adamas CR Voting System. All rights reserved.
+              © 2025 AdiVote. All rights reserved.
             </p>
           </motion.div>
         </motion.div>

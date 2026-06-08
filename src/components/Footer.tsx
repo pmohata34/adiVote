@@ -58,13 +58,13 @@ const Footer = () => {
                 <Vote className="h-6 w-6 text-[#33CC33]" />
               </motion.div>
               <span className="text-2xl font-bold bg-gradient-to-r from-[#33CC33] to-[#2ecc71] bg-clip-text text-transparent">
-                Adamas CR Vote
+                AdiVote
               </span>
             </Link>
             <div className="flex items-center gap-2 text-sm text-gray-500">
-              <span>© {new Date().getFullYear()} Adamas CR Vote.</span>
+              <span>© {new Date().getFullYear()} AdiVote.</span>
               <span className="flex items-center gap-1">
-                Made with <Heart className="h-4 w-4 text-red-500" /> by Team Adamas CR Vote
+                Made with <Heart className="h-4 w-4 text-red-500" /> by Team AdiVote
               </span>
             </div>
           </div>
